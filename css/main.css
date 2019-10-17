@@ -1101,11 +1101,12 @@ h6 {
     padding: 12px 20px;
     border-radius: 40px;
     box-shadow: 0 0 20px rgba(0, 0, 0, .05);
+
 }
 
 .portfolio .list-filter li {
     display: inline-block;
-    margin: 0 15px;
+    margin: 15px 15px;
     font-weight: 500;
     letter-spacing: 1.1px;
     line-height: 1;
